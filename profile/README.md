@@ -1,8 +1,6 @@
-## Hi there, we are szenario.fordesingers 👋
+## Welcome to szenario.fordesingers 👋
 
-We're a team of dedicated developers, passionate about creating seamless web experiences. Our expertise in coding, design, and project management ensures your vision becomes a reality, executed with precision and creativity.
-
-
+a hub where web development, coding, and design intersect with a shared love for Craft CMS.
 
 <!--
 
